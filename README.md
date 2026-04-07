@@ -138,7 +138,3 @@ Les contributions sont les bienvenues ! N'hésitez pas à ouvrir une **issue** o
 Ce projet est sous licence **MIT**. Voir le fichier [LICENSE](LICENSE) pour plus de détails.
 
 ---
-
-<p align="center">
-  Fait avec ❤️ pour la cybersécurité — <strong>CyberRange STANLEY</strong>
-</p>
