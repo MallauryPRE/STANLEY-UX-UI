@@ -94,8 +94,8 @@ STANLEY/
 
 ```bash
 # 1. Cloner le dépôt
-git clone https://github.com/votre-utilisateur/STANLEY.git
-cd STANLEY
+git clone https://github.com/MallauryPRE/STANLEY-UX-UI/
+cd STANLEY-UX-UI
 
 # 2. Installer les dépendances
 npm install
