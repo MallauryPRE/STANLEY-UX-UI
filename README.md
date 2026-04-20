@@ -127,7 +127,7 @@ npm run preview
 
 Les contributions sont les bienvenues ! N'hésitez pas à ouvrir une **issue** ou une **pull request**.
 
-1. Forkez le projet
+1. Forcez le projet
 2. Créez une branche (`git checkout -b feature/ma-fonctionnalite`)
 3. Committez vos changements (`git commit -m 'feat: ajout de ma fonctionnalité'`)
 4. Pushez sur la branche (`git push origin feature/ma-fonctionnalite`)
